@@ -1,4 +1,4 @@
-# Altip-Sales-Analysis
+# Atliq-Sales-Analysis
 ## Project Overview
 ## Project Overview:  
 
